@@ -1,1 +1,2 @@
 # hearthStone
+The webapp version
